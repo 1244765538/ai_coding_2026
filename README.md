@@ -30,7 +30,7 @@ Fork 本仓库后，你将看到以下目录：
 ### 第二步：Clone（克隆）到本地
 打开你的终端（或 Git Bash），执行：
 ```bash
-git clone https://github.com/你的用户名/ai_coding_2026.git
+git clone https://github.com/AphyTOT/ai_coding_2026.git
 cd ai_coding_2026
 ```
 
@@ -54,7 +54,7 @@ git push origin main
 ### 第五步：发起 Pull Request（PR）
 1. 回到你 GitHub 上的仓库页面，点击 **Pull requests** 标签页，然后点击 **New pull request**。
 2. 确保左边是你的仓库，右边是原仓库的 `main` 分支。
-3. **PR 的标题格式必须是：`姓名_学号_交卷`**（例如：`张三_2023001_交卷`）。
+3. **PR 的标题格式必须是：`姓名_学号`**（例如：`张三_2023001`）。
 4. 在描述里简要写一句：“已按考核要求完成并提交代码及 AI 记录。”
 5. 点击 **Create pull request** 提交。
 
