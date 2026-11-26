@@ -115,3 +115,24 @@ python3 -m py_compile main.py                     → OK
 2. 第二次 commit：`docs: 补充 AI 对话记录及运行说明`
 3. push 到 `1244765538/ai_coding_2026`
 4. 向 `AphyTOT/ai_coding_2026` 开 PR，标题：`杜永康_6020262121`
+
+---
+
+## 7. 完成后复查（2026-11-26）
+
+**我：**「检查一下看看是否完成，并写进文档。」
+
+**AI：** 对照 README、本地测试、Git/PR 全量复查，结论：**交卷项已完成**。
+
+复查结果摘要：
+
+| 类别 | 结果 |
+| --- | --- |
+| 代码 / 文档交付物 | ✅ `main.py`、`AI_dialogue.md`、`run_instructions.md` 齐全 |
+| 官方样例 | ✅ 3/3 |
+| 边界自测 | ✅ 4/4 |
+| README 示例流程 | ✅ PASS |
+| 两次 commit + push | ✅ `9453ac9` / `f5c8d89` |
+| PR | ✅ [#3](https://github.com/AphyTOT/ai_coding_2026/pull/3) 标题 `杜永康_6020262121`，OPEN / MERGEABLE |
+
+详细勾选表见：`2/交卷检查清单.md`。
